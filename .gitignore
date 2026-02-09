@@ -1,0 +1,23 @@
+.vs/ClassesEmetodos.slnx/FileContentIndex/f59e4ff4-7094-45f1-b87b-a6160eba9740.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/2c77d548-1dcc-4a0e-9108-2cb6fcd4b049.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/2d104f6e-7558-457f-b686-a5940da11028.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/a2435342-7596-48e3-94b5-efc8059920ee.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/6fe48a8e-af6b-4010-8310-a39de5c99588.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/2b2957c6-4b29-4239-b290-8c3c14cb5eff.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/01f97bf9-f8c3-4b00-b27e-faa914bca99e.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/368a561c-4741-4e88-a990-31dc82ad598b.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/40984ac0-8ded-4285-9067-dcdc25a2e470.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/56276fa8-43a7-4cc0-bde0-9d68e15c5024.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/8c64c40f-2c88-4084-9673-792c16ac37cf.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/b687da38-c1f2-40e7-a5fd-5246be2817d0.vsidx
+.vs/ClassesEmetodos.slnx/FileContentIndex/a4e22e5c-dd76-4de8-9da7-3a9bc1cb94f3.vsidx
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.dll
+*.cache
+*.nuget/
