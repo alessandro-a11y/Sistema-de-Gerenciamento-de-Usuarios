@@ -90,7 +90,7 @@ namespace SistemaGerenciamentoDeUsuarios
                 novoUsuario.Id = proximoId;
                 proximoId++;
                 usuarios.Add(novoUsuario);
-                Console.WriteLine("Usuário cadastrado com sucesso!\n");
+                Console.WriteLine("\nUsuário cadastrado com sucesso!\n");
             }
         }
 
